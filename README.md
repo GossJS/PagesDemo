@@ -3,7 +3,7 @@
 
 Сайт включён в настройках репозитория из ветви master, выбрана тема Cayman :-)
 
-Автоматически создался -config.yml
+Автоматически создался _config.yml
 
  - Адрес репо : https://github.com/GossJS/PagesDemo
 
