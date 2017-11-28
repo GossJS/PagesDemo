@@ -1,9 +1,13 @@
 # PagesDemo
 Файл README используется как индекс сайта
 
-Сайт включён в настройках репозитория из ветви master
+Сайт включён в настройках репозитория из ветви master, выбрана тема Cayman :-)
 
-Его адрес https://gossjs.github.io/PagesDemo/
+Автоматически создался -config.yml
+
+ - Адрес репо : https://github.com/GossJS/PagesDemo
+
+ - Адрес сайта: https://gossjs.github.io/PagesDemo/
 
 
 
